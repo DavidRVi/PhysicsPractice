@@ -1,0 +1,25 @@
+﻿Build started 07/04/2016 21:02:21.
+     1>Project "C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Indoor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Player.cpp
+         Player.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Debug\Indoor.exe" /INCREMENTAL /NOLOGO gl/glut32.lib gl/glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Debug\Indoor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Debug\Indoor.lib" /MACHINE:X86 /SAFESEH:NO Debug\main.obj
+         Debug\Player.obj
+         Debug\Scene.obj
+         Debug\CollisionEngine.obj
+         Debug\Plane.obj
+         Debug\Point.obj
+         Debug\Sphere.obj
+         Debug\Triangle.obj
+         Debug\Vector.obj
+         Debug\Camera.obj
+         Debug\Glm.obj
+         Debug\ModelOBJ.obj
+         Debug\Vector3D.obj
+         Indoor.vcxproj -> C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Debug\Indoor.exe
+     1>Done Building Project "C:\Users\davidrv4\Downloads\EjIndoor\e01 (ground)\Indoor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88

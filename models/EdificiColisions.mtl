@@ -1,0 +1,129 @@
+#
+# EdificiColisions.mtl
+#
+
+newmtl DefaultLib.Material18
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/puerta.jpg
+
+newmtl DefaultLib.Material13
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/puerta.jpg
+
+newmtl DefaultLib.Material9
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material8
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material6
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material7
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material14
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/SUELO20.JPG
+
+newmtl DefaultLib.Material5
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/murp.jpg
+
+newmtl DefaultLib.Material11
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/tex01_6.jpg
+
+newmtl DefaultLib.Material3
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/BuildingsMedieval0010_L.jpg
+
+newmtl DefaultLib.Material16
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/grafiti01a.jpg
+
+newmtl DefaultLib.Material15
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/grafiti02b.jpg
+
+newmtl DefaultLib.Material1
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material2
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/hal_01es_256.jpg
+
+newmtl DefaultLib.Material10
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/puerta.jpg
+
+newmtl DefaultLib.Material17
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/murp.jpg
+
+newmtl DefaultLib.Material
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/tex01_6.jpg
+
+newmtl DefaultLib.Material4
+Ka 0.300000 0.300000 0.300000
+Kd 0.700000 0.700000 0.700000
+Ks 1.000000 1.000000 1.000000
+Ns 390.625000
+map_Kd models/BuildingsMedieval0010_L.jpg
